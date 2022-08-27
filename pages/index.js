@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hedlamps!" />
         <p className="description">
-          We are busy building a new and exciting site for you. <code>pages/index.js</code>
+          We are busy building a new and exciting site for you. <code></code>
         </p>
       </main>
 
